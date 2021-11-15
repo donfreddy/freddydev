@@ -1,0 +1,36 @@
+/**
+ * This injects Tailwind's base styles and any base styles registered by
+ * plugins.
+ */
+@tailwind base;
+
+/**
+   * This injects Tailwind's component classes and any component classes
+   * registered by plugins.
+   */
+@tailwind components;
+
+/**
+* This injects Tailwind's utility classes and any utility classes registered
+* by plugins.
+*/
+@tailwind utilities;
+
+/*
+ --> Custom
+  @apply container px-4 py-6 mx-auto sm:px-6 lg:px-8;
+*/
+
+@layer components {
+  .content {
+    @apply container px-4 mx-auto sm:px-6;
+  }
+
+  .transit {
+    @apply transition duration-500 ease-in-out;
+  }
+
+  .vertical-p {
+    @apply py-10 md:py-16 lg:py-24;
+  }
+}
