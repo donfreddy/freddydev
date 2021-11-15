@@ -49,7 +49,6 @@
 
           <v-popover>
             <button v-tooltip="$t('choose_language')" class="icon">
-              <!-- <span class="mr-1">{{ local }}</span> -->
               <i class="material-icons">translate</i>
             </button>
             <template slot="popover">
@@ -85,12 +84,6 @@ export default class Header extends Vue {
     const locales = this.$i18n.locales as any[];
 
     return locales.filter(({ code }: { code: string }) => code !== this.$i18n.locale);
-  }
-
-  get local(): string {
-    const locale = this.$i18n.locale.toLocaleLowerCase();
-
-    return locale.charAt(0).toUpperCase() + locale.slice(1);
   }
 }
 </script>
