@@ -12,6 +12,7 @@
     "lint": "yarn lint:js"
   },
   "dependencies": {
+    "@headlessui/vue": "^1.4.2",
     "@nuxtjs/toast": "^3.3.1",
     "aos": "^2.3.4",
     "core-js": "^3.9.1",

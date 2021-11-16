@@ -10,7 +10,7 @@
     <!-- Back to top button -->
     <back-to-top visibleoffset="800">
       <button
-        class="fixed bottom-0 right-0 p-2 m-10 text-white transition-colors duration-500 rounded-md d bg-orangeColor hover:bg-orange-400 focus:outline-none"
+        class="fixed bottom-0 right-0 p-2 m-10 text-white transition-colors duration-500 rounded-md  d bg-orangeColor hover:bg-orange-400 focus:outline-none"
         aria-label="Back to top"
       >
         <!-- heroicons: chevron-up -->
@@ -43,3 +43,23 @@ import BackToTop from 'vue-backtotop';
 })
 export default class Default extends Vue {}
 </script>
+
+<style scoped>
+@keyframes loader-rotate {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.loader {
+  border-right-color: transparent;
+  animation: loader-rotate 10s linear infinite;
+}
+.back-to-top {
+  animation-direction: alternate;
+  /* -webkit-animation: action 1s infinite alternate;
+  animation: action 1s infinite alternate; */
+}
+</style>

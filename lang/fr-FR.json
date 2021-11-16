@@ -2,5 +2,7 @@
   "test": "Le site est en francais",
   "we_use_cookies": "Nous utilisons des cookies, juste pour suivre les visites sur notre site Web, nous ne stockons aucune donnée personnelle.",
   "dismiss": "Rejeter",
-  "color": "Couleur"
+  "color": "Couleur",
+  "choose_language":"Changer de langue",
+  "settings_drawer": "Basculer le tiroir des paramètres"
 }

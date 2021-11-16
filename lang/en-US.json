@@ -2,5 +2,7 @@
   "test": "The web site is in english",
   "we_use_cookies": "We use cookies, just to track visits to our website, we store no personal details.",
   "dismiss": "Dismiss",
-  "color": "Color"
+  "color": "Color",
+  "choose_language": "Change language",
+  "settings_drawer": "Toggle settings drawer"
 }
