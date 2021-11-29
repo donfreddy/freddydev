@@ -56,6 +56,7 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'stylesheet', href: 'https://unicons.iconscout.com/release/v4.0.0/css/line.css' },
       { rel: 'preconnect', href: 'https://fonts.gstatic.com/' },
     ],
   },
@@ -104,6 +105,7 @@ export default {
     '@nuxtjs/toast',
     // https://github.com/nuxt-community/i18n-module
     'nuxt-i18n',
+    'vue-scrollto/nuxt',
   ],
 
   // Tailwindcss module configuration: https://tailwindcss.nuxtjs.org/options
@@ -140,7 +142,7 @@ export default {
     families: {
       'Material+Icons': true,
       Poppins: true,
-      'Roboto+Mono': [300, 400, 500, 600, 700],
+      Nunito: [300, 400, 500, 600, 700, 800],
     },
     fontsPath: '~assets/fonts',
   },

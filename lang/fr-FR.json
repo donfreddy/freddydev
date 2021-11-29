@@ -1,8 +1,28 @@
 {
-  "test": "Le site est en francais",
-  "we_use_cookies": "Nous utilisons des cookies, juste pour suivre les visites sur notre site Web, nous ne stockons aucune donnée personnelle.",
-  "dismiss": "Rejeter",
-  "color": "Couleur",
-  "choose_language":"Changer de langue",
-  "settings_drawer": "Basculer le tiroir des paramètres"
+  "action": {
+    "dismiss": "Rejeter",
+    "close": "Fermer",
+    "more": "Plus",
+    "reload": "Recharger",
+    "go_home": "Aller à l'accueil"
+  },
+  "app": {
+    "background": "Arrière-plan",
+    "menu": "Ouvrir le menu",
+    "settings_drawer": "Basculer le tiroir des paramètres",
+    "we_use_cookies": "Nous utilisons des cookies, juste pour suivre les visites sur notre site Web, nous ne stockons aucune donnée personnelle."
+  },
+  "navigation": {
+    "home": "Accueil",
+    "about": "À-propos",
+    "skills": "Compétences",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "settings": "Paramètres"
+  },
+  "settings": {
+    "accent_color": "Couleur d'accent",
+    "choose_language": "Sélectionner une langue"
+  }
 }

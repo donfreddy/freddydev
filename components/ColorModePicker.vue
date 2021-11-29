@@ -2,11 +2,13 @@
   <div class="flex flex-col">
     <label>
       <ColorScheme placeholder="..." tag="span">
-        {{ $t('background') }}:
-        {{ $colorMode.preference.charAt(0).toUpperCase() + $colorMode.preference.slice(1) }}
-        <span v-if="$colorMode.preference === 'system'">
-          ({{ $colorMode.value }} mode detected)
-        </span>
+        {{ $t('app.background') }}
+        <p class="text-xs text-gray-500">
+          {{ $colorMode.preference.charAt(0).toUpperCase() + $colorMode.preference.slice(1) }}
+          <span v-if="$colorMode.preference === 'system'">
+            ({{ $colorMode.value }} mode detected)
+          </span>
+        </p>
       </ColorScheme>
     </label>
     <div>
@@ -14,9 +16,9 @@
         v-for="(color, index) of colors"
         :key="`color-${index}`"
         v-tooltip="`${color.charAt(0).toUpperCase()}${color.slice(1)}`"
-        class="inline-flex items-center justify-center p-3 m-2 transition duration-150 ease-in-out bg-transparent rounded-full cursor-pointer border-collapseer-2 text-fgLightColor hover:text-fgColor hover:shadow-none"
+        class="inline-flex items-center justify-center p-3 m-2 transition duration-150 ease-in-out bg-transparent rounded-full cursor-pointer  hover:bg-ovbColor border-collapseer-2 text-fgLightColor hover:text-fgColor hover:shadow-none"
         :class="[
-          { 'bg-actColor': color === $colorMode.preference },
+          { 'bg-ovbColor': color === $colorMode.preference },
           { 'text-acColor hover:text-acColor': color === $colorMode.value },
         ]"
         @click="$colorMode.preference = color"

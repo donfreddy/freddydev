@@ -8,33 +8,23 @@
 ------------------------------------------------- 
 */
 
-*,
-*::before,
-*::after {
-  backface-visibility: hidden;
-}
-
 :root {
   @apply antialiased;
 
   font-variant-ligatures: common-ligatures;
 }
 
-::-webkit-scrollbar {
-  @apply h-1;
-  @apply w-2;
-
-  &:hover {
-    @apply bg-bgDarkColor;
-  }
+::selection {
+  @apply bg-acColor;
+  @apply text-actColor;
 }
 
-::-webkit-scrollbar-thumb {
-  @apply bg-fgLightColor;
+/*==================== BASE ====================*/
 
-  &:hover {
-    @apply bg-fgColor;
-  }
+*,
+*::before,
+*::after {
+  backface-visibility: hidden;
 }
 
 html {
@@ -42,7 +32,7 @@ html {
 }
 
 body {
-  // @apply bg-bgColor;
+  @apply bg-bgColor;
   @apply text-fgColor;
   @apply text-base;
   @apply font-medium;
@@ -52,8 +42,20 @@ body {
   @apply ease-in-out;
   @apply duration-150;
 
+  // animation: fade 300ms forwards;
+  overflow: overlay;
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
+}
+
+@keyframes fade {
+  0% {
+    @apply opacity-0;
+  }
+
+  100% {
+    @apply opacity-100;
+  }
 }
 
 body.afterLoad {
@@ -88,11 +90,45 @@ a {
   }
 }
 
+h1,
+h2,
+h3,
+h4 {
+  @apply flex;
+  @apply items-center;
+  @apply m-0;
+  @apply font-bold;
+}
+
+h3.title {
+  @apply m-2;
+}
+
+p {
+  @apply text-sm;
+  @apply transition;
+  @apply ease-in-out;
+  @apply duration-150;
+}
+
+hr {
+  @apply border-b;
+  @apply border-dashed;
+  @apply border-brdColor;
+  @apply my-4;
+}
+
+i {
+  &.uil {
+    @apply text-2xl;
+  }
+}
+
 button {
   @apply inline-flex;
   @apply items-center;
   @apply justify-center;
-  @apply p-4;
+  @apply p-2;
   @apply bg-acColor;
   @apply text-actColor;
   @apply font-bold;
@@ -135,20 +171,58 @@ button {
       @apply text-fgColor;
       @apply fill-current;
       @apply shadow-none;
+      @apply bg-ovbColor;
     }
   }
 
   &.primary {
-    @apply text-acColor;
-    @apply px-6;
+    @apply text-white;
+    // @apply px-4;
+    @apply bg-acColor;
 
     &:not([disabled]):hover,
     &:not([disabled]):active,
     &:not([disabled]):focus {
       @apply bg-acColor;
-      @apply text-actColor;
+      @apply text-white;
     }
   }
+}
+
+/*========== SCROLL BAR ==========*/
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+::-webkit-scrollbar {
+  @apply h-1;
+  @apply w-2;
+
+  &:hover {
+    @apply bg-bgDarkColor;
+  }
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-fgLightColor;
+
+  &:hover {
+    @apply bg-fgColor;
+  }
+}
+
+/*==================== REUSABLE CSS CLASSES ====================*/
+// .container {
+//   @apply container;
+//   @apply px-4;
+//   @apply sm:px-6;
+//   @apply mx-auto;
+// }
+
+.transit {
+  @apply transition;
+  @apply divide-blue-500;
+  @apply ease-in-out;
 }
 
 .tooltip {

@@ -30,6 +30,7 @@ module.exports = {
         acColor: 'var(--ac-color)',
         actColor: 'var(--act-color)',
         ttColor: 'var(--tt-color)',
+        ovbColor: 'var(--ovb-color)',
 
         // default colors from tailwindcss
         transparent: 'transparent',
@@ -51,7 +52,7 @@ module.exports = {
     fontFamily: {
       sans: 'var(--font-sans)',
       mono: 'var(--font-mono)',
-      icon: 'var(--font-icon)',
+      // icon: 'var(--font-icon)',
     },
   },
   variants: {},

@@ -1,8 +1,7 @@
 <template>
-  <div class="flex flex-col min-h-screen mx-auto">
+  <div class="flex flex-col min-h-screen">
     <Header />
-    <main class="container flex-grow mx-auto">
-      <!--Page content -->
+    <main class="flex-grow">
       <Nuxt />
     </main>
     <Footer />
@@ -10,19 +9,10 @@
     <!-- Back to top button -->
     <back-to-top visibleoffset="800">
       <button
-        class="fixed bottom-0 right-0 p-2 m-10 text-white transition-colors duration-500 rounded-md  d bg-orangeColor hover:bg-orange-400 focus:outline-none"
+        class="fixed bottom-0 right-0 m-6 rounded-md md:m-10 loader icon primary"
         aria-label="Back to top"
       >
-        <!-- heroicons: chevron-up -->
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          class="w-6 h-6"
-          fill="none"
-          viewBox="0 0 24 24"
-          stroke="currentColor"
-        >
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 15l7-7 7 7" />
-        </svg>
+       <i class="uil uil-angle-double-up"></i>
       </button>
     </back-to-top>
   </div>
@@ -31,10 +21,12 @@
 <script lang="ts">
 import { Component, Vue } from 'nuxt-property-decorator';
 import BackToTop from 'vue-backtotop';
+// import { UilAngleDoubleUp } from '@iconscout/vue-unicons';
 
 @Component({
   components: {
     BackToTop,
+    //  UilAngleDoubleUp,
   },
   beforeMount() {
     const color = localStorage.getItem('THEME_COLOR') || 'green';
@@ -45,21 +37,16 @@ export default class Default extends Vue {}
 </script>
 
 <style scoped>
-@keyframes loader-rotate {
+@keyframes loader-translate {
   0% {
-    transform: rotate(0);
+    transform: translateY(0);
   }
   100% {
-    transform: rotate(360deg);
+    transform: translateY(-10px);
   }
 }
 .loader {
   border-right-color: transparent;
-  animation: loader-rotate 10s linear infinite;
-}
-.back-to-top {
-  animation-direction: alternate;
-  /* -webkit-animation: action 1s infinite alternate;
-  animation: action 1s infinite alternate; */
+  animation: loader-translate 1s alternate infinite;
 }
 </style>

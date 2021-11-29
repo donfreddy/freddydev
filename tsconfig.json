@@ -27,7 +27,8 @@
       "@nuxt/types",
       "@types/node",
       "@nuxtjs/toast",
-      "nuxt-i18n"
+      "nuxt-i18n",
+      "vue-scrollto"
     ]
   },
   "exclude": [
