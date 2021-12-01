@@ -34,15 +34,15 @@ html {
 body {
   @apply bg-bgColor;
   @apply text-fgColor;
-  @apply text-base;
-  @apply font-medium;
+  @apply text-lg;
+  @apply font-normal;
   @apply font-mono;
   @apply select-none;
   @apply transition;
   @apply ease-in-out;
   @apply duration-150;
 
-  // animation: fade 300ms forwards;
+  animation: fade 300ms forwards;
   overflow: overlay;
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
@@ -426,7 +426,8 @@ button {
   }
 }
 
-.material-icons {
+.material-icons,
+.uil {
   &:active {
     animation: beat 0.5s forwards 1;
   }

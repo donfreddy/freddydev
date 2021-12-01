@@ -1,6 +1,8 @@
 <template>
   <a :href="link" target="_blank" :class="color">
-    <i :class="getClass()"></i>
+    <button class="icon">
+      <i :class="getClass()"></i>
+    </button>
   </a>
 </template>
 
