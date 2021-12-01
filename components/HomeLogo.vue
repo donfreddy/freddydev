@@ -7,208 +7,208 @@
     height="617.32"
     viewBox="0 0 1144 617.32"
   >
-    <title>developer activity</title>
+    <!-- <title>developer activity</title> -->
     <path
       d="M1172,537.57a181.92,181.92,0,0,1-6.85,49.6,180.06,180.06,0,0,1-19.27,44.28c0,50.1-33.82,93.4-82.91,114a167.3,167.3,0,0,1-64.73,12.8H245.17c-40.25,0-77.55-10.86-108.14-29.36A185.76,185.76,0,0,1,112.2,711c-34-29.22-55.08-69.6-55.08-114.2A180.5,180.5,0,0,1,28,498.08c0-73.36,43.39-136.44,105.55-164.29a174.52,174.52,0,0,1,25.51-9.12q4.63-1.26,9.36-2.26a175.39,175.39,0,0,1,25.51-3.5q4.65-.29,9.35-.33H205c3.46,0,6.89.12,10.3.32l1.12-1.9q2.06-3.44,4.22-6.81,3.9-6.14,8.18-12.1,4.48-6.29,9.35-12.38l.83-1q2.76-3.44,5.64-6.8,9-10.49,19-20.35c72.11-70.68,185.08-116.18,312.08-116.18,98.82,0,189.15,27.55,258.34,73.07A174.18,174.18,0,0,1,920,191.86c97.74,0,177,80.37,177,179.51a184.9,184.9,0,0,1-1,18.78A180,180,0,0,1,1172,537.57Z"
       transform="translate(-28 -141.34)"
-      :fill="color"
+      class="fill"
       opacity="0.1"
     />
     <path
       d="M263.66,257.52v20.35h-19Q253.59,267.39,263.66,257.52Z"
       transform="translate(-28 -141.34)"
-      :fill="color"
+      class="fill"
       opacity="0.2"
     />
-    <rect x="245.02" y="111.02" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="279.88" y="111.02" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="314.75" y="111.02" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="349.61" y="111.02" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="384.48" y="111.02" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="419.35" y="111.02" width="25.51" height="25.51" :fill="color" />
-    <rect x="454.21" y="111.02" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="489.08" y="111.02" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="523.94" y="111.02" width="25.51" height="25.51" fill="var(--tt-color)" opacity="0.2" />
-    <rect x="558.81" y="111.02" width="25.51" height="25.51" :fill="color" />
-    <rect x="593.68" y="111.02" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="628.54" y="111.02" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="663.41" y="111.02" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="698.28" y="111.02" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="733.14" y="111.02" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="768.01" y="111.02" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="802.87" y="111.02" width="25.51" height="25.51" :fill="color" />
-    <rect x="837.74" y="111.02" width="25.51" height="25.51" :fill="color" />
-    <rect x="872.61" y="111.02" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="907.47" y="111.02" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="942.34" y="111.02" width="25.51" height="25.51" :fill="color" />
-    <rect x="977.2" y="111.02" width="25.51" height="25.51" :fill="color" />
+    <rect x="245.02" y="111.02" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="279.88" y="111.02" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="314.75" y="111.02" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="349.61" y="111.02" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="384.48" y="111.02" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="419.35" y="111.02" width="25.51" height="25.51" class="fill" />
+    <rect x="454.21" y="111.02" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="489.08" y="111.02" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="523.94" y="111.02" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="558.81" y="111.02" width="25.51" height="25.51" class="fill" />
+    <rect x="593.68" y="111.02" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="628.54" y="111.02" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="663.41" y="111.02" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="698.28" y="111.02" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="733.14" y="111.02" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="768.01" y="111.02" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="802.87" y="111.02" width="25.51" height="25.51" class="fill" />
+    <rect x="837.74" y="111.02" width="25.51" height="25.51" class="fill" />
+    <rect x="872.61" y="111.02" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="907.47" y="111.02" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="942.34" y="111.02" width="25.51" height="25.51" class="fill" />
+    <rect x="977.2" y="111.02" width="25.51" height="25.51" class="fill" />
     <path
       d="M228.8,298.08v12.1h-8.18Q224.52,304,228.8,298.08Z"
       transform="translate(-28 -141.34)"
-      :fill="color"
+      class="fill"
     />
-    <rect x="210.15" y="143.33" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="245.02" y="143.33" width="25.51" height="25.51" :fill="color" />
-    <rect x="279.88" y="143.33" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="314.75" y="143.33" width="25.51" height="25.51" :fill="color" opacity="0.7" />
-    <rect x="349.61" y="143.33" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="384.48" y="143.33" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="419.35" y="143.33" width="25.51" height="25.51" :fill="color" />
-    <rect x="454.21" y="143.33" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="489.08" y="143.33" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="523.94" y="143.33" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="558.81" y="143.33" width="25.51" height="25.51" :fill="color" />
-    <rect x="593.68" y="143.33" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="628.54" y="143.33" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="663.41" y="143.33" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="698.28" y="143.33" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="733.14" y="143.33" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="768.01" y="143.33" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="802.87" y="143.33" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="837.74" y="143.33" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="872.61" y="143.33" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="907.47" y="143.33" width="25.51" height="25.51" :fill="color" />
-    <rect x="942.34" y="143.33" width="25.51" height="25.51" :fill="color" />
-    <rect x="977.2" y="143.33" width="25.51" height="25.51" :fill="color" />
+    <rect x="210.15" y="143.33" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="245.02" y="143.33" width="25.51" height="25.51" class="fill" />
+    <rect x="279.88" y="143.33" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="314.75" y="143.33" width="25.51" height="25.51" class="fill" opacity="0.7" />
+    <rect x="349.61" y="143.33" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="384.48" y="143.33" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="419.35" y="143.33" width="25.51" height="25.51" class="fill" />
+    <rect x="454.21" y="143.33" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="489.08" y="143.33" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="523.94" y="143.33" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="558.81" y="143.33" width="25.51" height="25.51" class="fill" />
+    <rect x="593.68" y="143.33" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="628.54" y="143.33" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="663.41" y="143.33" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="698.28" y="143.33" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="733.14" y="143.33" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="768.01" y="143.33" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="802.87" y="143.33" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="837.74" y="143.33" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="872.61" y="143.33" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="907.47" y="143.33" width="25.51" height="25.51" class="fill" />
+    <rect x="942.34" y="143.33" width="25.51" height="25.51" class="fill" />
+    <rect x="977.2" y="143.33" width="25.51" height="25.51" class="fill" />
     <path
       d="M159.06,324.67V342.5H133.55v-8.71A174.52,174.52,0,0,1,159.06,324.67Z"
       transform="translate(-28 -141.34)"
-      :fill="color"
+      class="fill"
       opacity="0.2"
     />
     <polygon
       points="165.93 177.57 165.93 201.16 140.42 201.16 140.42 181.07 165.93 177.57"
-      :fill="color"
+      class="fill"
       opacity="0.2"
     />
-    <rect x="175.28" y="175.65" width="25.51" height="25.51" :fill="color" />
-    <rect x="210.15" y="175.65" width="25.51" height="25.51" :fill="color" opacity="0.7" />
-    <rect x="245.02" y="175.65" width="25.51" height="25.51" :fill="color" />
-    <rect x="279.88" y="175.65" width="25.51" height="25.51" :fill="color" opacity="0.7" />
-    <rect x="314.75" y="175.65" width="25.51" height="25.51" :fill="color" opacity="0.7" />
-    <rect x="349.61" y="175.65" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="384.48" y="175.65" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="419.35" y="175.65" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="454.21" y="175.65" width="25.51" height="25.51" :fill="color" />
-    <rect x="489.08" y="175.65" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="523.94" y="175.65" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="558.81" y="175.65" width="25.51" height="25.51" :fill="color" />
-    <rect x="593.68" y="175.65" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="628.54" y="175.65" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="663.41" y="175.65" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="698.28" y="175.65" width="25.51" height="25.51" :fill="color" />
-    <rect x="733.14" y="175.65" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="768.01" y="175.65" width="25.51" height="25.51" :fill="color" opacity="0.7" />
-    <rect x="802.87" y="175.65" width="25.51" height="25.51" :fill="color" opacity="0.7" />
-    <rect x="837.74" y="175.65" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="872.61" y="175.65" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="907.47" y="175.65" width="25.51" height="25.51" :fill="color" />
-    <rect x="942.34" y="175.65" width="25.51" height="25.51" :fill="color" />
-    <rect x="977.2" y="175.65" width="25.51" height="25.51" :fill="color" />
-    <rect x="105.55" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="140.42" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="175.28" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="210.15" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="245.02" y="207.96" width="25.51" height="25.51" :fill="color" />
-    <rect x="279.88" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.7" />
-    <rect x="314.75" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.7" />
-    <rect x="349.61" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="384.48" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="419.35" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="454.21" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="489.08" y="207.96" width="25.51" height="25.51" :fill="color" />
-    <rect x="523.94" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="558.81" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="593.68" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="628.54" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="663.41" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="698.28" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="733.14" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="768.01" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="802.87" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="837.74" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.7" />
-    <rect x="872.61" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.7" />
-    <rect x="907.47" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="942.34" y="207.96" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="977.2" y="207.96" width="25.51" height="25.51" :fill="color" />
-    <rect x="105.55" y="240.28" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="140.42" y="240.28" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="175.28" y="240.28" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="210.15" y="240.28" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="245.02" y="240.28" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="279.88" y="240.28" width="25.51" height="25.51" :fill="color" opacity="0.7" />
-    <rect x="314.75" y="240.28" width="25.51" height="25.51" :fill="color" opacity="0.7" />
-    <rect x="349.61" y="240.28" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="384.48" y="240.28" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="419.35" y="240.28" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="454.21" y="240.28" width="25.51" height="25.51" :fill="color" />
-    <rect x="489.08" y="240.28" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="523.94" y="240.28" width="25.51" height="25.51" :fill="color" />
-    <rect x="558.81" y="240.28" width="25.51" height="25.51" :fill="color" />
-    <rect x="593.68" y="240.28" width="25.51" height="25.51" :fill="color" />
-    <rect x="628.54" y="240.28" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="663.41" y="240.28" width="25.51" height="25.51" :fill="color" />
-    <rect x="698.28" y="240.28" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="733.14" y="240.28" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="768.01" y="240.28" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="802.87" y="240.28" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="837.74" y="240.28" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="872.61" y="240.28" width="25.51" height="25.51" :fill="color" opacity="0.7" />
-    <rect x="907.47" y="240.28" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="942.34" y="240.28" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="977.2" y="240.28" width="25.51" height="25.51" :fill="color" />
-    <rect x="105.55" y="272.59" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="140.42" y="272.59" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="175.28" y="272.59" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="210.15" y="272.59" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="245.02" y="272.59" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="279.88" y="272.59" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="314.75" y="272.59" width="25.51" height="25.51" :fill="color" opacity="0.7" />
-    <rect x="349.61" y="272.59" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="384.48" y="272.59" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="419.35" y="272.59" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="454.21" y="272.59" width="25.51" height="25.51" :fill="color" />
-    <rect x="489.08" y="272.59" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="523.94" y="272.59" width="25.51" height="25.51" :fill="color" />
-    <rect x="558.81" y="272.59" width="25.51" height="25.51" :fill="color" />
-    <rect x="593.68" y="272.59" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="628.54" y="272.59" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="663.41" y="272.59" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="698.28" y="272.59" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="733.14" y="272.59" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="768.01" y="272.59" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="802.87" y="272.59" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="837.74" y="272.59" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="872.61" y="272.59" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="907.47" y="272.59" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="942.34" y="272.59" width="25.51" height="25.51" :fill="color" opacity="0.4" />
-    <rect x="977.2" y="272.59" width="25.51" height="25.51" :fill="color" />
-    <rect x="105.55" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.7" />
-    <rect x="140.42" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.7" />
-    <rect x="175.28" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.7" />
-    <rect x="210.15" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.7" />
-    <rect x="245.02" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.7" />
-    <rect x="279.88" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="314.75" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="349.61" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="384.48" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="419.35" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="454.21" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="489.08" y="304.91" width="25.51" height="25.51" :fill="color" />
-    <rect x="523.94" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="558.81" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="593.68" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="628.54" y="304.91" width="25.51" height="25.51" :fill="color" />
-    <rect x="663.41" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="698.28" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="733.14" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="768.01" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="802.87" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="837.74" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="872.61" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="907.47" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="942.34" y="304.91" width="25.51" height="25.51" :fill="color" opacity="0.2" />
-    <rect x="977.2" y="304.91" width="25.51" height="25.51" :fill="color" />
+    <rect x="175.28" y="175.65" width="25.51" height="25.51" class="fill" />
+    <rect x="210.15" y="175.65" width="25.51" height="25.51" class="fill" opacity="0.7" />
+    <rect x="245.02" y="175.65" width="25.51" height="25.51" class="fill" />
+    <rect x="279.88" y="175.65" width="25.51" height="25.51" class="fill" opacity="0.7" />
+    <rect x="314.75" y="175.65" width="25.51" height="25.51" class="fill" opacity="0.7" />
+    <rect x="349.61" y="175.65" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="384.48" y="175.65" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="419.35" y="175.65" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="454.21" y="175.65" width="25.51" height="25.51" class="fill" />
+    <rect x="489.08" y="175.65" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="523.94" y="175.65" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="558.81" y="175.65" width="25.51" height="25.51" class="fill" />
+    <rect x="593.68" y="175.65" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="628.54" y="175.65" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="663.41" y="175.65" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="698.28" y="175.65" width="25.51" height="25.51" class="fill" />
+    <rect x="733.14" y="175.65" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="768.01" y="175.65" width="25.51" height="25.51" class="fill" opacity="0.7" />
+    <rect x="802.87" y="175.65" width="25.51" height="25.51" class="fill" opacity="0.7" />
+    <rect x="837.74" y="175.65" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="872.61" y="175.65" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="907.47" y="175.65" width="25.51" height="25.51" class="fill" />
+    <rect x="942.34" y="175.65" width="25.51" height="25.51" class="fill" />
+    <rect x="977.2" y="175.65" width="25.51" height="25.51" class="fill" />
+    <rect x="105.55" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="140.42" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="175.28" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="210.15" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="245.02" y="207.96" width="25.51" height="25.51" class="fill" />
+    <rect x="279.88" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.7" />
+    <rect x="314.75" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.7" />
+    <rect x="349.61" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="384.48" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="419.35" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="454.21" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="489.08" y="207.96" width="25.51" height="25.51" class="fill" />
+    <rect x="523.94" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="558.81" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="593.68" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="628.54" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="663.41" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="698.28" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="733.14" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="768.01" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="802.87" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="837.74" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.7" />
+    <rect x="872.61" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.7" />
+    <rect x="907.47" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="942.34" y="207.96" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="977.2" y="207.96" width="25.51" height="25.51" class="fill" />
+    <rect x="105.55" y="240.28" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="140.42" y="240.28" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="175.28" y="240.28" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="210.15" y="240.28" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="245.02" y="240.28" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="279.88" y="240.28" width="25.51" height="25.51" class="fill" opacity="0.7" />
+    <rect x="314.75" y="240.28" width="25.51" height="25.51" class="fill" opacity="0.7" />
+    <rect x="349.61" y="240.28" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="384.48" y="240.28" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="419.35" y="240.28" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="454.21" y="240.28" width="25.51" height="25.51" class="fill" />
+    <rect x="489.08" y="240.28" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="523.94" y="240.28" width="25.51" height="25.51" class="fill" />
+    <rect x="558.81" y="240.28" width="25.51" height="25.51" class="fill" />
+    <rect x="593.68" y="240.28" width="25.51" height="25.51" class="fill" />
+    <rect x="628.54" y="240.28" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="663.41" y="240.28" width="25.51" height="25.51" class="fill" />
+    <rect x="698.28" y="240.28" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="733.14" y="240.28" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="768.01" y="240.28" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="802.87" y="240.28" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="837.74" y="240.28" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="872.61" y="240.28" width="25.51" height="25.51" class="fill" opacity="0.7" />
+    <rect x="907.47" y="240.28" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="942.34" y="240.28" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="977.2" y="240.28" width="25.51" height="25.51" class="fill" />
+    <rect x="105.55" y="272.59" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="140.42" y="272.59" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="175.28" y="272.59" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="210.15" y="272.59" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="245.02" y="272.59" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="279.88" y="272.59" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="314.75" y="272.59" width="25.51" height="25.51" class="fill" opacity="0.7" />
+    <rect x="349.61" y="272.59" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="384.48" y="272.59" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="419.35" y="272.59" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="454.21" y="272.59" width="25.51" height="25.51" class="fill" />
+    <rect x="489.08" y="272.59" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="523.94" y="272.59" width="25.51" height="25.51" class="fill" />
+    <rect x="558.81" y="272.59" width="25.51" height="25.51" class="fill" />
+    <rect x="593.68" y="272.59" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="628.54" y="272.59" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="663.41" y="272.59" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="698.28" y="272.59" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="733.14" y="272.59" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="768.01" y="272.59" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="802.87" y="272.59" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="837.74" y="272.59" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="872.61" y="272.59" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="907.47" y="272.59" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="942.34" y="272.59" width="25.51" height="25.51" class="fill" opacity="0.4" />
+    <rect x="977.2" y="272.59" width="25.51" height="25.51" class="fill" />
+    <rect x="105.55" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.7" />
+    <rect x="140.42" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.7" />
+    <rect x="175.28" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.7" />
+    <rect x="210.15" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.7" />
+    <rect x="245.02" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.7" />
+    <rect x="279.88" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="314.75" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="349.61" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="384.48" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="419.35" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="454.21" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="489.08" y="304.91" width="25.51" height="25.51" class="fill" />
+    <rect x="523.94" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="558.81" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="593.68" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="628.54" y="304.91" width="25.51" height="25.51" class="fill" />
+    <rect x="663.41" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="698.28" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="733.14" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="768.01" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="802.87" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="837.74" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="872.61" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="907.47" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="942.34" y="304.91" width="25.51" height="25.51" class="fill" opacity="0.2" />
+    <rect x="977.2" y="304.91" width="25.51" height="25.51" class="fill" />
     <circle cx="734.52" cy="363.89" r="34.87" fill="#767d9f" />
     <path
       d="M760.71,460.87q5.22,22.78,8.86,45.9c.73,4.58,1.38,9.41-.28,13.74-1.39,3.61-4.22,6.43-6.44,9.59s-3.9,7.21-2.55,10.83,5.29,5.6,9.05,6.62c10.76,2.9,22.23.79,32.94-2.35a53.29,53.29,0,0,0,13.81-5.72c4.54-2.88,8.26-6.88,11.68-11,15.61-18.93,25.83-41.65,35.45-64.23a39.12,39.12,0,0,1-33.11-13.34c-3.94-4.63-6.83-11.08-4.61-16.74-6.51,3.57-14.24,3.81-21.25,6.25a75.49,75.49,0,0,0-12.5,6.15q-7.18,4.15-14.28,8.46C772.07,458.29,767,461.19,760.71,460.87Z"
@@ -290,11 +290,11 @@
       transform="translate(-28 -141.34)"
       fill="#fff"
     />
-    <circle cx="790.2" cy="388.99" r="25.94" :fill="color" />
+    <circle cx="790.2" cy="388.99" r="25.94" class="fill" />
     <path
       d="M846.13,489.23l-4.12-6.8-6-.85c1.28-22.39-4.53-29.06-4.53-29.06l-1.35-.13-5.88-.57-11.06-11.48v-3.26c15.54,1.85,24.13,9.23,28.77,17.88C850.16,470.14,846.13,489.23,846.13,489.23Z"
       transform="translate(-28 -141.34)"
-      :fill="color"
+      class="fill"
     />
     <path
       d="M830.18,448.27v4.12l-5.88-.57-11.06-11.48S830.35,444.17,830.18,448.27Z"
@@ -321,7 +321,7 @@
     <path
       d="M761,516c7.27,12.59,16.19,21,9.29,25s-27,2-34.27-10.6-.67-30,6.23-34S753.72,503.38,761,516Z"
       transform="translate(-28 -141.34)"
-      :fill="color"
+      class="fill"
     />
     <path
       d="M825.73,425.3c0,40.23-27.53,79-67.76,79a72.85,72.85,0,0,1,0-145.7C798.2,358.64,825.73,385.06,825.73,425.3Z"
@@ -342,45 +342,8 @@
   </svg>
 </template>
 
-<script lang="ts">
-import { Component, Vue, Watch } from 'nuxt-property-decorator';
-
-@Component
-export default class HomeLogo extends Vue {
-  active = () => document.documentElement.getAttribute('data-accent') || 'green';
-
-  get color(): string {
-    switch (this.active()) {
-      case 'blue':
-        return '#60A5FA';
-      case 'teal':
-        return '#2DD4BF';
-      case 'indigo':
-        return '#818CF8';
-      case 'purple':
-        return '#C084FC';
-      case 'orange':
-        return '#FB923C';
-      case 'pink':
-        return '#F472B6';
-      case 'red':
-        return '#F87171';
-      case 'yellow':
-        return '#FACC15';
-      default:
-        return '#4ADE80';
-    }
-  }
-
-  @Watch('active', { immediate: true, deep: true })
-  onColorChanged(val: string, oldVal: string): void {
-    if (val !== oldVal) {
-      this.$nuxt.$watch('active', () => {
-        this.$toast.show('#################');
-      });
-      this.active();
-    }
-  }
+<style>
+.fill {
+  fill: var(--ac-color);
 }
-</script>
-
+</style>

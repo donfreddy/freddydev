@@ -4,7 +4,7 @@
     <main class="flex-grow">
       <Nuxt />
     </main>
-    <Footer />
+    <Teee />
 
     <!-- Back to top button -->
     <back-to-top visibleoffset="800">

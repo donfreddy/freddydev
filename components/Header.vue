@@ -1,6 +1,6 @@
 <template>
   <header id="home" class="font-mono text-fgColor">
-    <div class="container max-w-screen-xl px-4 mx-auto sm:px-6">
+    <div class="container">
       <nav>
         <div class="flex items-center justify-between py-6">
           <!-- Menu button -->
@@ -172,9 +172,6 @@
           </template>
         </app-drawer>
       </nav>
-
-      <!--  -->
-      <!-- <Home/> -->
     </div>
   </header>
 </template>
