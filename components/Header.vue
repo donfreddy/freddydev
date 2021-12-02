@@ -29,18 +29,30 @@
                 {{ $t('navigation.about') }}
               </a>
             </li>
-            <li>
-              <a v-scroll-to="'#skills'" href="#" class="font-semibold hover:text-acColor transit">
+            <li class="nav__item">
+              <a
+                v-scroll-to="'#skills'"
+                href="#"
+                class="font-semibold hover:text-acColor transit nav__link"
+              >
                 {{ $t('navigation.skills') }}
               </a>
             </li>
             <li>
-              <a v-scroll-to="'#services'" href="#" class="font-semibold hover:text-acColor transit">
+              <a
+                v-scroll-to="'#services'"
+                href="#"
+                class="font-semibold hover:text-acColor transit"
+              >
                 {{ $t('navigation.services') }}
               </a>
             </li>
             <li>
-              <a v-scroll-to="'#portfolio'" href="#" class="font-semibold hover:text-acColor transit">
+              <a
+                v-scroll-to="'#portfolio'"
+                href="#"
+                class="font-semibold hover:text-acColor transit"
+              >
                 {{ $t('navigation.portfolio') }}
               </a>
             </li>

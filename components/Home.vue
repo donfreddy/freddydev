@@ -39,8 +39,8 @@
         <i class="uil text-acColor loader uil-arrow-down"></i>
       </a>
     </div> -->
-    <div class="container">
-      <div class="flex flex-col py-12 space-y-14 lg:py-24 lg:flex-row lg:items-center">
+    <div class="container py-0 space-y-12 lg:py-20">
+      <div class="flex flex-col py-12 space-y-12 lg:space-y-0 lg:py-24 lg:flex-row lg:items-center">
         <!-- Home data -->
         <div class="flex items-center justify-center w-full lg:justify-start lg:w-1/2">
           <div class="max-w-lg text-center lg:text-left">
@@ -90,7 +90,7 @@
       </a> -->
 
       <div class="hidden lg:flex">
-        <a href="#" class="mb-12 arrow-container">
+        <a href="#" class="mb-0 arrow-container">
           <div class="arrow"></div>
           <div class="arrow"></div>
           <div class="arrow"></div>
