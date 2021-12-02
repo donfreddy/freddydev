@@ -83,19 +83,19 @@
       </div>
 
       <!-- Scroll button -->
-      <!-- <a href="#" class="flex items-center">
+      <a href="#" class="flex items-center bg-red-600">
         <i class="uil uil-mouse-alt text-acColor"></i>
         <span class="mx-2">Scroll down</span>
         <i class="uil text-acColor loader uil-arrow-down"></i>
-      </a> -->
-
+      </a>
+<!-- 
       <div class="hidden lg:flex">
         <a href="#" class="mb-0 arrow-container">
           <div class="arrow"></div>
           <div class="arrow"></div>
           <div class="arrow"></div>
         </a>
-      </div>
+      </div> -->
     </div>
   </section>
 </template>

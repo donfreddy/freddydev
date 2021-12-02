@@ -5,6 +5,8 @@
       <Nuxt />
     </main>
     <Teee />
+    <Teee />
+    <Teee />
 
     <!-- Back to top button -->
     <back-to-top visibleoffset="800">
