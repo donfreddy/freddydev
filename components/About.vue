@@ -1,6 +1,6 @@
 <template>
   <section id="about" class="bg-blue-500">
-    <div class="container py-20">
+    <div class="container sm:py-20">
       <!-- Section title -->
       <div class="flex flex-col w-full mb-12 text-center">
         <h1 class="mb-2 text-3xl sm:text-4xl">About Me</h1>

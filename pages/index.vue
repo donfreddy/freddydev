@@ -1,7 +1,8 @@
 <template>
   <div>
     <Home />
-    <About />
+    <Abou />
+    <Skill />
   </div>
 </template>
 
